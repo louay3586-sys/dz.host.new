@@ -1,0 +1,58 @@
+{
+    "LOUAY": {
+        "password": "LOUAY877",
+        "role": "admin"
+    },
+    "C4X_CODEX67071": {
+        "password": "llQhY5L278",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "819e51b6",
+                "login_url": "/819e51b6/login",
+                "dashboard_url": "/819e51b6/home",
+                "full_link": "http://localhost:5000/819e51b6/login",
+                "type": "python",
+                "ram": "1GB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-08-06 11:16:20.448285",
+                "expiry": "2026-08-09 11:16:20.299832",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 30,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "admin": {
+        "password": "admin230",
+        "role": "admin"
+    },
+    "TEAM_ALG33765": {
+        "password": "D6I6xxKM4c",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "cb40086e",
+                "login_url": "/cb40086e/login",
+                "dashboard_url": "/cb40086e/home",
+                "full_link": "http://localhost:5000/cb40086e/login",
+                "type": "python",
+                "ram": "1GB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-08-08 13:25:36.778679",
+                "expiry": "2026-08-11 13:25:36.472960",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 30,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    }
+}
